@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_properties_content_blocks",
+  "info": {
+    "displayName": "ContentBlock",
+    "icon": "dashboard"
+  },
+  "options": {},
+  "attributes": {
+    "hero": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

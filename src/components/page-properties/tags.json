@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_properties_tags",
+  "info": {
+    "displayName": "tags",
+    "icon": "hashtag"
+  },
+  "options": {},
+  "attributes": {
+    "tag": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
